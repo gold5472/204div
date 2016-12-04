@@ -310,8 +310,8 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-0 .tile-inner {
-    color: #000000;
-    background: #11ff11;
+    color: #ffffff;
+    background: #000000;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
